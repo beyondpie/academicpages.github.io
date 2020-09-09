@@ -36,8 +36,8 @@ University. I focus on statistical algorithm development and data analysis for s
 sequencing data and tumor immunotherapy. 
 
 # Recent News
-
-* March 14, 2020. One paper accepted to Bioinformatics.
+* August 31, 2020, SIMPLEs is finally accepted to NAR Genomics and Bioinformatics after being rejected three times.
+* March 14, 2020. VISAR is accepted to Bioinformatics. Congratulations, Qingyang!
 * Feb 26, 2020. I got a funding support from the Harvard Data Science Initiative Postdoctoral Fellow Research Fund.
 
 # Academic Services

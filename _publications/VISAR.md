@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/VISAR
 date: 2020-03-14
 venue: 'Bioinformatics'
-citation: 'Qingyang Ding, <b>Songpeng Zu</b>, Siyu Hou, Yonghui Zhang, Shao Li. <i>Bioinformatics 2020</i>'
+citation: 'Qingyang Ding, <b>Songpeng Zu</b>, Siyu Hou, Yonghui Zhang, Shao Li. <i>Bioinformatics, 36(11), pp3610-3612, 2020</i>'
 ---
 
 [[PDF]](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btaa187/5805385)

@@ -5,14 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[VISAR: an interactive tool for dissecting chemical features learned by deep
-neural network QSAR models](https://beyondpie.github.io/publications/VISAR)</b> <br>
-Qingyang Ding, <b>Songpeng Zu</b>, Siyu Hou, Yonghui Zhang, Shao Li. <i>Bioinformatics 2020</i>
 
 <b>[SIMPLEs: a single-cell RNA sequencing imputation strategy preserving gene
 modules and cell clusters
 variation](https://beyondpie.github.io/publications/SIMPLEs)</b> <br>
-Zhirui Hu\*, <b>Songpeng Zu</b>\* (equal contribution), Jun S. Liu. <i>bioRxiv 2020</i>
+Zhirui Hu\*, <b>Songpeng Zu</b>\*, Jun S. Liu. <i>NAR Genomics and Bioinformatics 2020</i>
+
+<b>[VISAR: an interactive tool for dissecting chemical features learned by deep
+neural network QSAR models](https://beyondpie.github.io/publications/VISAR)</b> <br>
+Qingyang Ding, Siyu Hou, <b>Songpeng Zu</b>, Yonghui Zhang, Shao Li. <i>Bioinformatics 2020</i>
 
 <b>[Modeling Attention Flow on Graphs](https://beyondpie.github.io/publications/AFG)</b> <br>
 Xiaoran Xu, <b>Songpeng Zu</b>, Chengliang Gao, Yuan Zhang, Wei Feng. <i>NIPS 2018 Workshop on Relational Representation Learning</i>

@@ -2,8 +2,8 @@
 title: "SIMPLEs: a single-cell RNA sequencing imputation strategy preserving gene modules and cell clusters variation"
 collection: publications
 permalink: /publications/SIMPLEs
-date: 2020-01-14
-venue: 'bioRxiv'
+date: 2020-08-31
+venue: 'Accepted by NAR Genomics and Bioinformatics'
 citation: 'Zhirui Hu*, <b>Songpeng Zu</b>* (equal contribution), Jun S. Liu. <i>bioRxiv 2020</i>'
 ---
 
